@@ -1,0 +1,17 @@
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.WebApi.exe
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\appsettings.Development.json
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\appsettings.json
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.WebApi.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.WebApi.runtimeconfig.json
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.WebApi.pdb
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\AngleSharp.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\AngleSharp.Css.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\HtmlSanitizer.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\dotnet-ef.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\System.Text.Encoding.CodePages.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.Core.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.DataLayer.dll
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.Core.pdb
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.DataLayer.pdb
+G:\Task\CrudTask-Api\Gx.WebApi\obj\Release\netcoreapp2.1\win-x64\PubTmp\Out\Gx.WebApi.deps.json
